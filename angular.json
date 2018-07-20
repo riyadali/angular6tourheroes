@@ -50,12 +50,9 @@
           "options": {
             "browserTarget": "tour-of-heroes:build",
             "host": "0.0.0.0",    
-            "port": 4201
-            
-          }, 
-          "devServer": {
-            "disableHostCheck": true
-          },
+            "port": 4201,            
+            "disableHostCheck": true        
+          },           
           "configurations": {
             "production": {
               "browserTarget": "tour-of-heroes:build:production"
