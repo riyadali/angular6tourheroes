@@ -50,7 +50,7 @@
           "options": {
             "browserTarget": "tour-of-heroes:build",
             "host": "0.0.0.0",    
-            "port": 4201,            
+            "port": 8080,            
             "disableHostCheck": true        
           },           
           "configurations": {
